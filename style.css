@@ -594,7 +594,6 @@ a {
 	padding-top: 0;
 	margin-top: -100vh;
 	height: 110%;
-	border: 1px solid black;
 	left: 50%;
 	display: flex;
 	justify-content: space-between;
@@ -633,7 +632,6 @@ a {
 	padding-top: 0;
 	margin-top: -100vh;
 	height: 110%;
-	border: 1px solid black;
 	left: 50%;
 	display: flex;
 	justify-content: space-between;
