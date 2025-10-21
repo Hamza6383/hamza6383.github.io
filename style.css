@@ -39,7 +39,7 @@ body {
 header {
 	position: relative;
 	display: flex;
-	align-items: center;
+	align-items: left;
 	height: 100%;
 	transform-style: preserve-3d;
 	z-index: -1;
@@ -1494,6 +1494,7 @@ p {
 		width: 13000px;
 	}
 }
+
 
 
 
