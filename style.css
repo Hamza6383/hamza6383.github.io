@@ -1076,12 +1076,17 @@ p {
 
 .Side {
 	rotate: 90deg;
+	height: 100%;
 	margin: 5px;
 	padding: 0;
 	border: 1px solid yellow;
+	font-size: 200px;
 }
 
 .SideDiv {
+	display: flex;
+	justify-content: centre;
+	text-align: centre;
 	height: 100vh;
 	margin: 0;
 	padding: 0;
@@ -1491,6 +1496,7 @@ p {
 		width: 13000px;
 	}
 }
+
 
 
 
