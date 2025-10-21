@@ -1080,17 +1080,17 @@ p {
 	padding: 0;
 	margin: 0;
 	border: 2px solid green;
+	font-size: 75px;
 }
 
 .SideDiv {
 	border: 5px solid red;
-	height: 75vh;
+	height: 75%;
 	width: 30vw;
 	text-align: center;
 	display: flex;
 	flex-direction: column;
 	justify-content: space-around;
-	font-size: 100vw;
 	color: black;
 	transform: scaleY(1.25);
 	width: 7.5vw;
@@ -1503,6 +1503,7 @@ p {
 		width: 13000px;
 	}
 }
+
 
 
 
