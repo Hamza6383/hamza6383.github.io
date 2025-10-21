@@ -1076,7 +1076,7 @@ p {
 
 .Side {
 	rotate: 90deg;
-	font-size: vh/9;
+	font-size: 500px;
 	margin: 5px;
 	padding: 0;
 	border: 5px solid red;
@@ -1485,6 +1485,7 @@ p {
 		width: 13000px;
 	}
 }
+
 
 
 
