@@ -1074,6 +1074,10 @@ p {
 
 }
 
+.Side {
+	font-size: 100px;
+}
+
 @media screen and (max-height:600px) {
 	.introduction {
 		width: 42vw;
@@ -1477,3 +1481,6 @@ p {
 		width: 13000px;
 	}
 }
+
+
+
