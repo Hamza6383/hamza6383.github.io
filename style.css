@@ -1080,6 +1080,7 @@ p {
 	padding: 0;
 	border: 1px solid yellow;
 	font-size: 50px;
+	color: black;
 }
 
 .SideDiv {
@@ -1497,6 +1498,7 @@ p {
 		width: 13000px;
 	}
 }
+
 
 
 
