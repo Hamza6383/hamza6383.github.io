@@ -1079,7 +1079,14 @@ p {
 	font-size: 500px;
 	margin: 5px;
 	padding: 0;
-	border: 5px solid red;
+	border: 1px solid red;
+}
+
+.SideDive {
+	height: 100vh;
+	margin: 0;
+	padding: 0;
+	border: 1px solid green;
 }
 
 @media screen and (max-height:600px) {
@@ -1485,6 +1492,7 @@ p {
 		width: 13000px;
 	}
 }
+
 
 
 
