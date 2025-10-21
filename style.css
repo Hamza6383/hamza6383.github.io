@@ -1079,6 +1079,7 @@ p {
 	font-size: vh/9;
 	margin: 5px;
 	padding: 0;
+	border: 5px solid red;
 }
 
 @media screen and (max-height:600px) {
@@ -1484,6 +1485,7 @@ p {
 		width: 13000px;
 	}
 }
+
 
 
 
