@@ -1075,7 +1075,7 @@ p {
 }
 
 .Side {
-	font-size: 100px;
+	font-size: 1000px;
 }
 
 @media screen and (max-height:600px) {
@@ -1481,6 +1481,7 @@ p {
 		width: 13000px;
 	}
 }
+
 
 
 
