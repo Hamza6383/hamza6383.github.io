@@ -1085,7 +1085,8 @@ p {
 
 .SideDiv {
 	display: flex;
-	justify-content: centre;
+	flex-direction: column;
+	justify-content: space-between;
 	text-align: centre;
 	height: 100vh;
 	margin: 0;
@@ -1496,6 +1497,7 @@ p {
 		width: 13000px;
 	}
 }
+
 
 
 
