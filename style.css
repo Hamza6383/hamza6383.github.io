@@ -1089,10 +1089,10 @@ p {
 	display: flex;
 	flex-direction: column;
 	justify-content: space-around;
-	font-size: 15vw;
+	font-size: 100vw;
 	color: black;
 	transform: scaleY(1.25);
-	width: 20vw;
+	width: 7.5vw;
 	margin-left: 0;
 	text-align: center;
 	border: 5px solid red;
@@ -1502,6 +1502,7 @@ p {
 		width: 13000px;
 	}
 }
+
 
 
 
