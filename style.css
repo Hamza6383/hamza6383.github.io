@@ -1075,7 +1075,10 @@ p {
 }
 
 .Side {
-	font-size: 1000px;
+	transform: rotate(90deg)
+	font-size: vh/9;
+	margin: 5px;
+	padding: 0;
 }
 
 @media screen and (max-height:600px) {
@@ -1481,6 +1484,7 @@ p {
 		width: 13000px;
 	}
 }
+
 
 
 
