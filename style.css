@@ -1076,12 +1076,18 @@ p {
 
 .Side {
 	rotate: 90deg;
+	font-size: 24px;
+	color: black;
 }
 
 .SideDiv {
 	border: 1px solid red;
 	height: 1000px;
 	width: 1000px;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
 	
 }
 
@@ -1488,6 +1494,7 @@ p {
 		width: 13000px;
 	}
 }
+
 
 
 
