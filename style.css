@@ -39,6 +39,7 @@ body {
 header {
 	position: relative;
 	display: flex;
+	justify-content: center;
 	align-items: left;
 	height: 100%;
 	transform-style: preserve-3d;
@@ -1080,7 +1081,7 @@ p {
 	padding: 0;
 	margin: 0;
 	border: 2px solid green;
-	font-size: 75px;
+	font-size: 50px;
 }
 
 .SideDiv {
@@ -1503,6 +1504,7 @@ p {
 		width: 13000px;
 	}
 }
+
 
 
 
