@@ -1083,16 +1083,16 @@ p {
 
 .SideDiv {
 	border: 5px solid red;
-	height: 100vh;
+	height: 90vh;
 	width: 30vw;
 	text-align: center;
 	display: flex;
 	flex-direction: column;
 	justify-content: space-around;
-	font-size: 40px;
+	font-size: 15vw;
 	color: black;
 	transform: scaleY(1.25);
-	width: 45vw;
+	width: 20vw;
 	margin-left: 0;
 	text-align: center;
 	border: 5px solid red;
@@ -1502,6 +1502,7 @@ p {
 		width: 13000px;
 	}
 }
+
 
 
 
