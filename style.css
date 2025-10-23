@@ -1102,7 +1102,7 @@ p {
 	border: 5px solid red;
 	overflow: hidden;
 	white-space: nowrap;
-	font-size: 8vw;
+	font-size: 25px;
 }
 
 @media screen and (max-height:600px) {
@@ -1508,6 +1508,7 @@ p {
 		width: 13000px;
 	}
 }
+
 
 
 
