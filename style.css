@@ -1083,6 +1083,7 @@ p {
 	padding: 0;
 	margin: 0;
 	border: 2px solid green;
+	font-size: 25px;
 }
 
 .SideDiv {
@@ -1102,7 +1103,6 @@ p {
 	border: 5px solid red;
 	overflow: hidden;
 	white-space: nowrap;
-	font-size: 25px;
 }
 
 @media screen and (max-height:600px) {
@@ -1508,6 +1508,7 @@ p {
 		width: 13000px;
 	}
 }
+
 
 
 
