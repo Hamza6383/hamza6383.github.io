@@ -1084,8 +1084,6 @@ p {
 	margin: 0;
 	border: 2px solid green;
 	font-size: 50px;
-	height: auto;
-	width: auto;
 }
 
 .SideDiv {
@@ -1510,6 +1508,7 @@ p {
 		width: 13000px;
 	}
 }
+
 
 
 
