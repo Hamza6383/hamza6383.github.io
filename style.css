@@ -44,7 +44,8 @@ header {
 	height: 100%;
 	transform-style: preserve-3d;
 	z-index: -1;
-	border: none;
+	border: 1px solid black;
+	border-opacity: 0.1;
 }
 
 .parrallax {
@@ -1507,6 +1508,7 @@ p {
 		width: 13000px;
 	}
 }
+
 
 
 
