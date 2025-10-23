@@ -40,7 +40,7 @@ header {
 	position: relative;
 	display: flex;
 	justify-content: center;
-	align-items: left;
+	align-items: center;
 	height: 100%;
 	transform-style: preserve-3d;
 	z-index: -1;
@@ -1506,6 +1506,7 @@ p {
 		width: 13000px;
 	}
 }
+
 
 
 
