@@ -1259,7 +1259,6 @@ p {
 
 	.description-container-BCAST {
 		width: 9000px;
-		border: 5px solid yellow;
 	}
 
 	.description-container-university {
@@ -1270,7 +1269,6 @@ p {
 @media screen and (min-width: 1920px) and (max-width:2255px) {
 	.description-container-BCAST {
 		width: 12750px;
-		border: 5px solid red;
 	}
 
 	.description-container-university {
@@ -1284,10 +1282,16 @@ p {
 	}
 }
 
+@media screen and (min-height: 1080px) and (max-height: 1339px) {
+	.div1 {
+		height: 12%;
+	}
+}
+
+
 @media screen and (min-width: 2256px) and (max-width: 3839px) {
 	.description-container-BCAST {
 		width: 17250px;
-		border: 5px solid green;
 	}
 
 	.description-container-university {
@@ -1310,7 +1314,6 @@ p {
 	}
 
 	.Side {
-		border: 5px solid red;
 		font-size: 150px;
 	}
 
@@ -1354,9 +1357,13 @@ p {
 	.indivisual-descriptions4 {
 		font-size: 18px;
 	}
+	
+	.small-logo-text {
+		font-size: 18px;
+	}
 }
 
-@media screen and (min-width: 2256px) and (max-width: 3839px) {
+@media screen and (min-width: 2256px) and (max-width: 2559px) {
 	.navbar {
 		font-size: 26px;
 	}
@@ -1399,5 +1406,399 @@ p {
 
 	.indivisual-descriptions4 {
 		font-size: 18px;
+	}
+
+	.small-logo-text {
+		font-size: 18px;
+	}
+}
+
+@media screen and (min-width: 2560px) and (max-width: 3839px) {
+	.description-container-BCAST {
+		width: 17000px;
+	}
+
+	.navbar {
+		font-size: 20px;
+	}
+}
+
+@media screen and (min-width: 3840px) {
+	.Side {
+		font-size: 150px;
+		height: 2.5vw;
+	}
+
+	.navbar {
+		font-size: 20px;
+	}
+
+	.indivisual-descriptions {
+		font-size: 18px;
+	}
+
+	.indivisual-descriptions2 {
+		font-size: 18px;
+	}
+
+	.indivisual-descriptions3 {
+		font-size: 18px;
+	}
+	
+
+	.indivisual-descriptions4 {
+		font-size: 18px;
+	}
+
+	.small-logo-text {
+		font-size: 18px;
+	}
+	
+	.titles1{
+		font-size:40px;
+	}
+
+	.titles2{
+		font-size:40px;
+	}
+
+	.titles3{
+		font-size:40px;
+	}
+
+	.titles4{
+		font-size:40px;
+	}
+
+	.description-container-BCAST {
+		width: 25250px;
+	}
+
+	.description-container-university {
+		width: 18000px;
+	}
+}
+
+@media screen and (width: 1920px) and (height: 1080px) {
+	.navbar {
+		font-size: 20px;
+	}
+
+	.titles1{
+		font-size:25px;
+	}
+
+	.titles2{
+		font-size:25px;
+	}
+
+	.titles3{
+		font-size:25px;
+	}
+
+	.titles4{
+		font-size:25px;
+	}
+
+	.indivisual-descriptions {
+		font-size: 14px;
+	}
+
+	.indivisual-descriptions2 {
+		font-size: 14px;
+	}
+
+	.indivisual-descriptions3 {
+		font-size: 14px;
+	}
+	
+
+	.indivisual-descriptions4 {
+		font-size: 14px;
+	}
+
+	.small-logo-text {
+		font-size: 14px;
+	}
+
+	.div2 {
+		margin-top: 12.5px;
+	}
+
+	.div4 {
+		margin-top: 7.5px;
+	}
+
+	.Side {
+		font-size: 110px;
+		margin-left: 25px;
+	}
+}
+
+@media screen and (width: 2880px) and (height: 1800px) {
+	.description-container-BCAST {
+		width: 21000px;
+	}
+
+	.description-container-university {
+		width: 15250px;
+	}
+}
+
+@media screen and (width: 2560px) and (height: 1600px) {
+	.description-container-BCAST {
+		width: 18500px;
+	}
+
+	.description-container-university {
+		width: 14000px;
+	}
+}
+
+@media screen and (width: 2560px) and (height: 1440px) {
+	.Side {
+		margin-left: -20px;
+	}
+}
+
+@media screen and (width: 3840px) and (height: 2160px) {
+	.navbar {
+		font-size:40px;
+	}
+	
+	.titles1{
+		font-size:60px;
+	}
+
+	.titles2{
+		font-size:60px;
+	}
+
+	.titles3{
+		font-size:60px;
+	}
+
+	.titles4{
+		font-size:60px;
+	}
+
+	.indivisual-descriptions {
+		font-size: 30px;
+	}
+
+	.indivisual-descriptions2 {
+		font-size: 30px;
+	}
+
+	.indivisual-descriptions3 {
+		font-size: 30px;
+	}
+	
+
+	.indivisual-descriptions4 {
+		font-size: 30px;
+	}
+
+	.Side {
+		font-size: 220px;
+		margin-left: 150px;
+	}
+
+	.descriptions-3 {
+	height: 150%;
+	margin-top: 450px;
+	}
+
+	.small-logo-text {
+		font-size: 30px;
+	}
+}
+
+@media screen and (width: 2560px) and (height: 1080px) {
+	.description-container-BCAST {
+		width: 13800px;
+	}
+
+	.description-container-university {
+		width: 12000px;
+	}
+
+	.Side {
+		font-size: 110px;
+		margin-left: -50px;
+	}
+
+	.indivisual-descriptions {
+		font-size: 14px;
+	}
+
+	.indivisual-descriptions2 {
+		font-size: 14px;
+	}
+
+	.indivisual-descriptions3 {
+		font-size: 14px;
+	}
+	
+
+	.indivisual-descriptions4 {
+		font-size: 14px;
+	}
+
+	.small-logo-text {
+		font-size: 14px;
+	}
+
+	.div2 {
+		margin-top: 10px;
+	}
+
+	.div4 {
+		margin-top: 10px;
+	}
+}
+
+@media screen and (width: 3440px) and (height: 1440px) {
+	.navbar {
+		font-size: 30px;
+	}
+
+	.Side {
+		margin-left: -70px;
+	}
+
+	.description-container-BCAST {
+		width: 18000px;
+	}
+
+	.description-container-university {
+		width: 14000px;
+	}
+}
+
+@media screen and (width: 3840px) and (height: 1600px) {
+	.Side  {
+		font-size: 165px;
+		margin-left: 40px;
+	}
+
+	.navbar {
+		font-size: 30px;
+	}
+
+	.div2 {
+		margin-top: 10px;
+	}
+
+	.div4 {
+		margin-top: 10px;
+	}
+
+	.description-container-BCAST {
+		width: 20000px;
+	}
+
+	.description-container-university {
+		width: 15000px;
+	}
+}
+
+@media screen and (width: 5120px) and (height: 1440px) {
+	.Side {
+		margin-left: -100px;
+	}
+
+	.description-container-BCAST {
+		width: 20000px;
+	}
+
+	.description-container-university {
+		width: 17000px;
+	}
+}
+
+@media screen and (width: 1920px) and (height: 1200px) {
+	.Side {
+		font-size: 122.5px;
+		margin-left: 50px;
+	}
+
+	.description-container-BCAST {
+		width: 14000px;
+	}
+
+	.description-container-university {
+		width: 10000px;
+	}
+	
+	.titles1{
+		font-size:30px;
+	}
+
+	.titles2{
+		font-size:30px;
+	}
+
+	.titles3{
+		font-size:30px;
+	}
+
+	.titles4{
+		font-size:30px;
+	}
+
+	.indivisual-descriptions {
+		font-size: 15px;
+	}
+
+	.indivisual-descriptions2 {
+		font-size: 15px;
+	}
+
+	.indivisual-descriptions3 {
+		font-size: 15px;
+	}
+	
+
+	.indivisual-descriptions4 {
+		font-size: 15px;
+	}
+
+	.navbar {
+		font-size: 20px;
+	}
+}
+
+@media screen and (width: 2388px) and (height: 1668px) {
+	.Side {
+		font-size: 170px;
+		margin-left: 10px
+	}
+
+	.description-container-BCAST {
+		width: 19000px;
+	}
+
+	.description-container-university {
+		width: 13500px;
+	}
+}
+
+@media screen and (width: 2732px) and (height: 2048px) {
+	.Side {
+		font-size: 210px;
+		margin-left: 40px;
+	}
+
+	.navbar {
+		font-size: 30px;
+	}
+
+	.description-container-BCAST {
+		width: 23000px;
+	}
+
+	.description-container-university {
+		width: 16250px;
 	}
 }
